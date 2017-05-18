@@ -1,3 +1,5 @@
 [user]
 	name = Karol Kowalski
 	email = ordon1313@gmail.com
+[core]
+	excludesfile = ~/.gitignore_global
